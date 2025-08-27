@@ -1,0 +1,18 @@
+Field,Description,Data Type
+OrderID,Unique identifier for each order.,Integer
+CustomerID,Unique identifier for each customer.,Integer
+StoreID,Unique identifier for each store.,Integer
+OrderDate,Date when the order was placed.,Date
+OrderDateTime,Date when the order was placed.,DateTime
+OrderStatus,"Current status of the order (e.g., Pending, Completed, Cancelled).",Text
+SalesChannel,Saleschannel.,Text
+PaymentMethod,"Payment method used for the order (e.g., credit card, e-wallet, cash).",Text
+ShippingDate,Date when the order was shipped.,Date
+PromoCode,Code or short identifier.,Text
+Notes,Notes.,Text
+SubTotal,Subtotal before tax and shipping.,Float
+Tax,Tax amount applied to the order or line.,Float
+ShippingCost,Monetary value.,Float
+ItemsCount,Itemscount.,Integer
+OrderLevelDiscount,Orderleveldiscount.,Float
+OrderTotal,Total amount charged for the order.,Float

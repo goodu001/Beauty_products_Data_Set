@@ -1,0 +1,12 @@
+Field,Description,Data Type
+CustomerID,Unique identifier for each customer.,Integer
+FirstName,Customer's first name.,Text
+LastName,Customer's last name.,Text
+Gender,Customer's gender.,Text
+Birthdate,Customer's date of birth.,Date
+Email,Customer's email address.,Text
+Phone,Customer's phone number.,Text
+Country,Country name.,Text
+City,City name.,Text
+SignupDate,Date when the customer registered or first purchased.,Date
+IsSubscribed,Boolean flag indicating True/False.,Boolean

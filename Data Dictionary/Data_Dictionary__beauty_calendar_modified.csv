@@ -1,0 +1,13 @@
+Field,Description,Data Type
+Date,Calendar date.,Date
+Year,Calendar year (YYYY).,Integer
+Quarter,Calendar quarter (Q1–Q4).,Integer
+Month,Calendar month number (1–12).,Integer
+MonthName,"Calendar month name (e.g., January, February).",Text
+Day,Day of month (1–31).,Integer
+DayOfWeek,Day of week number (1–7).,Integer
+DayName,"Day of week name (e.g., Monday, Tuesday).",Text
+IsWeekend,Flag indicating weekend (Saturday/Sunday).,Boolean
+FiscalYear,Fiscalyear.,Integer
+FiscalQuarter,Fiscalquarter.,Integer
+Season,"Season label for the date (e.g., Summer, Rainy, Winter).",Text

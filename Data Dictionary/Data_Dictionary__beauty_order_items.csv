@@ -1,0 +1,8 @@
+Field,Description,Data Type
+OrderItemID,Unique identifier for each order line item.,Integer
+OrderID,Unique identifier for each order.,Integer
+ProductID,Unique identifier for each product.,Integer
+Quantity,Number of units for the line item.,Integer
+UnitPrice,Price of a single unit at the time of sale.,Float
+LineDiscount,Linediscount.,Float
+LineTotal,Monetary total for the line item (Quantity × UnitPrice minus discounts).,Float

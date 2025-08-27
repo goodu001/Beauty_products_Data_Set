@@ -1,0 +1,7 @@
+Field,Description,Data Type
+StoreID,Unique identifier for each store.,Integer
+StoreName,Descriptive name.,Text
+Country,Country name.,Text
+City,City name.,Text
+Channel,Channel.,Text
+OpenDate,Calendar date.,Date

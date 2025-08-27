@@ -1,0 +1,10 @@
+Field,Description,Data Type
+ProductID,Unique identifier for each product.,Integer
+SKU,Stock Keeping Unit for the product.,Text
+ProductName,Name of the product.,Text
+Category,"Product's category (e.g., Lips, Cheeks, Skincare).",Text
+Subcategory,Product's subcategory.,Text
+Brand,Product's brand.,Text
+UnitPrice,Price of a single unit of the product.,Float
+UnitCost,Cost of a single unit of the product.,Float
+Active,Indicates if the product is currently active.,Boolean

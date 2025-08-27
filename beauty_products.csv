@@ -1,0 +1,21 @@
+ProductID,SKU,ProductName,Category,Subcategory,Brand,UnitPrice,UnitCost,Active
+1,B-001,Aurora Glow Velvet Lipstick,Lips,Velvet Lipstick,Aurora Glow,12.18,5.96,True
+2,B-002,Aurora Glow Lip Gloss,Lips,Lip Gloss,Aurora Glow,10.19,5.46,True
+3,B-003,PureLeaf Cream Blush,Cheeks,Cream Blush,PureLeaf,13.9,6.93,True
+4,B-004,VelvetCloud Hydrating Serum,Skincare,Hydrating Serum,VelvetCloud,26.18,12.28,True
+5,B-005,VelvetCloud Toner,Skincare,Toner,VelvetCloud,11.83,6.16,True
+6,B-006,VelvetCloud Moisturizer,Skincare,Moisturizer,VelvetCloud,21.69,10.85,True
+7,B-007,Aurora Glow Sunscreen SPF50,Skincare,Sunscreen SPF50,Aurora Glow,20.15,8.43,True
+8,B-008,ZenSkin Primer,Makeup Base,Primer,ZenSkin,17.07,8.83,True
+9,B-009,Aurora Glow Liquid Foundation,Face,Liquid Foundation,Aurora Glow,27.15,14.13,True
+10,B-010,ZenSkin Concealer,Face,Concealer,ZenSkin,15.56,7.58,True
+11,B-011,LunaCare Brow Gel,Brows,Brow Gel,LunaCare,12.53,5.93,True
+12,B-012,Aurora Glow Eyeliner,Eyes,Eyeliner,Aurora Glow,10.02,4.57,True
+13,B-013,Aurora Glow Mascara,Eyes,Mascara,Aurora Glow,14.76,7.03,True
+14,B-014,Aurora Glow Nail Polish,Nails,Nail Polish,Aurora Glow,7.65,3.11,True
+15,B-015,VelvetCloud Hair Oil,Hair,Hair Oil,VelvetCloud,17.68,8.91,True
+16,B-016,VelvetCloud Shampoo,Hair,Shampoo,VelvetCloud,11.78,5.56,True
+17,B-017,ZenSkin Conditioner,Hair,Conditioner,ZenSkin,12.0,4.68,True
+18,B-018,ZenSkin Body Lotion,Body,Body Lotion,ZenSkin,13.32,5.63,True
+19,B-019,Aurora Glow Face Wash,Cleansers,Face Wash,Aurora Glow,10.06,3.41,True
+20,B-020,ZenSkin Sheet Mask,Masks,Sheet Mask,ZenSkin,3.6,1.56,True

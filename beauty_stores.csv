@@ -1,0 +1,11 @@
+StoreID,StoreName,Country,City,Channel,OpenDate
+1,BeautyHub #01,Singapore,Singapore,Street Boutique,2022-06-21
+2,BeautyHub #02,Malaysia,Kuala Lumpur,Street Boutique,2021-10-09
+3,BeautyHub #03,Vietnam,Ho Chi Minh City,Outlet,2023-04-17
+4,BeautyHub #04,Singapore,Singapore,Mall,2023-06-21
+5,BeautyHub #05,Vietnam,Hanoi,Outlet,2021-05-09
+6,BeautyHub #06,Malaysia,Johor Bahru,Outlet,2021-06-19
+7,BeautyHub #07,Thailand,Khon Kaen,Warehouse,2023-05-19
+8,BeautyHub #08,Vietnam,Hanoi,Warehouse,2022-11-27
+9,BeautyHub #09,Malaysia,Johor Bahru,Street Boutique,2021-10-02
+10,BeautyHub #10,Thailand,Bangkok,Street Boutique,2021-07-24
