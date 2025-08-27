@@ -1,0 +1,67 @@
+{
+  "name": "Custom Theme",
+  "dataColors": [
+    "#1E3D59",
+    "#FF6E40",
+    "#FFB400",
+    "#6EB5FF",
+    "#1F7A8C",
+    "#BFDBF7",
+    "#E1E5F2",
+    "#D8E3E7"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#8B0000",
+  "good": "#00B971",
+  "neutral": "#000000",
+  "bad": "#D6052E",
+  "textClasses": {
+    "label": {
+      "color": "#000000"
+    },
+    "callout": {
+      "color": "#8B0000"
+    },
+    "header": {
+      "color": "#8B0000"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "color": {
+              "solid": {
+                "color": "#D8D8D8"
+              }
+            },
+            "show": true,
+            "radius": 5
+          }
+        ],
+        "title": [
+          {
+            "color": {
+              "solid": {
+                "color": "#000000"
+              }
+            },
+            "fontFamily": "Segoe UI, sans-serif"
+          }
+        ]
+      }
+    }
+  }
+}
